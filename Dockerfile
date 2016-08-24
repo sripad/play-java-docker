@@ -1,4 +1,4 @@
-FROM sripad
+FROM ubuntu:14.04
 
 MAINTAINER Sripad <sripad@coextrix.com>
 
